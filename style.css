@@ -90,7 +90,7 @@ body {
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
-  background: url('https://coruzant.com/wp-content/uploads/2020/07/ai-analytics.jpg?text=AI+Analytics') center/cover no-repeat;
+  background: url('') center/cover no-repeat;
   padding: 4rem 2rem;
   color: #f0f4f8;
 }
